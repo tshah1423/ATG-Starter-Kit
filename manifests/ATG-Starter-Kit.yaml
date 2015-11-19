@@ -3,7 +3,7 @@ kit:
   link: http://griddynamics.com
   applications: [{
     name: "ATG Starter Kit",
-    manifest: "https://raw2.github.com/griddynamics/ATG-Starter-Kit/master/manifests/atg_starter_kit.yaml"
+    manifest: "https://raw.github.com/griddynamics/ATG-Starter-Kit/master/manifests/atg_starter_kit.yaml"
   }]
   provider:
     name: "Grid Dynamics"
